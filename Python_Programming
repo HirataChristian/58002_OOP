@@ -1,0 +1,116 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOGuIUcos04sVYYQHGUZOpt",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/HirataChristian/58002_OOP/blob/main/Python_Programming\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 4,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "U7Xk9XhYwaQs",
+        "outputId": "7eaf60a3-7594-4a93-dd2d-241578fc54fe"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello,World\n"
+          ]
+        }
+      ],
+      "source": [
+        "\n",
+        "print(\"Hello,World\")\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "x = 1\n",
+        "\n",
+        "y = 2 \n",
+        "print (x)\n",
+        "print (y)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "cdnUY8fOyjzw",
+        "outputId": "34478f24-6bde-45ac-e754-bcde1489cb4d"
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "1\n",
+            "2\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "fcVkZ-zfwy2x"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "k = \"enjoying\"\n",
+        "j = \"Python Programming is\"\n",
+        "print(\"Python Programming is \" +\" \"+ k)\n",
+        "print(j+k)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "ugk0nkqk45WV",
+        "outputId": "50d79374-c5ae-4904-bc7a-cf72613fe1c9"
+      },
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Python Programming is  enjoying\n",
+            "Python Programming isenjoying\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
